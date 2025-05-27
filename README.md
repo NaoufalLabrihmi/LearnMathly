@@ -80,7 +80,7 @@ npm run dev
 ---
 
 ## 🖼️ Screenshots
-> _Add your screenshots or demo GIFs here!_
+> _i will add it soon
 
 ---
 
